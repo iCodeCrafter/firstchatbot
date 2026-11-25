@@ -1,0 +1,5 @@
+com/example/chatbot/aitools/WebsiteBuilderToolTest.class
+com/example/chatbot/controller/WebsiteBuilderControllerTest.class
+com/example/chatbot/ChatbotApplicationTests.class
+com/example/chatbot/aitools/WeatherToolTest.class
+com/example/chatbot/aitools/CalculatorToolTest.class
